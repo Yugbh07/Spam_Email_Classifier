@@ -3,7 +3,7 @@
 A machine learning web app that classifies emails and SMS messages as Spam or Not Spam using NLP and Multinomial Naive Bayes.
 
 ## 🎯 Results
-- **Accuracy:** 97.4%
+- **Accuracy:** 98.4%
 - **Precision:** 100%
 - **Dataset:** 5,572 labelled messages
 
