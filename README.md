@@ -19,7 +19,7 @@ streamlit run app.py
 ```
 
 ## 📊 Models Compared
-12 models tested — MultinomialNB selected for 100% Precision
+12 models tested — voting classifier(SVM,MNB,RF) selected after model improvement for 100% Precisionand better acuraccy
 
 ## 🔮 Future Scope
 - BERT deep learning model
