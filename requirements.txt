@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+nltk
+pandas
+numpy
+naive bayes
+svc
+random forest
+xgboost
